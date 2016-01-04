@@ -1,6 +1,7 @@
 {
     "name": "rohan0793/quotes",
     "description": "Spits out random quotes.",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rohan Chhabra",
