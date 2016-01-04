@@ -1,0 +1,22 @@
+{
+    "name": "rohan0793/quotes",
+    "description": "Spits out random quotes.",
+    "authors": [
+        {
+            "name": "Rohan Chhabra",
+            "email": "rohan0793@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "~5.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Quotes\\": "src/"
+        }
+    }
+}
